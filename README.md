@@ -1,6 +1,6 @@
 # java-advanced-task
 
-## Week1
+### Week1
 
 
 - [作业1](https://github.com/jlbluluai/java-advanced-task/blob/main/Week1/Week1-%E4%BD%9C%E4%B8%9A-1.md)
