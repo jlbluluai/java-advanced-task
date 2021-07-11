@@ -3,7 +3,7 @@
 * [java-advanced-task](#java-advanced-task)
   * [Week1](#week1)
   * [Week2](#week2)
-  * [Week2](#week2-1)
+  * [Week3](#week3)
 
 # java-advanced-task
 
