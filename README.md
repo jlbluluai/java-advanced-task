@@ -4,6 +4,7 @@
   * [Week1](#week1)
   * [Week2](#week2)
   * [Week3](#week3)
+  * [Week4](#week4)
 
 # java-advanced-task
 
@@ -29,3 +30,10 @@
 
 
 - [作业](https://github.com/jlbluluai/java-advanced-task/blob/main/Week3/Week3-%E4%BD%9C%E4%B8%9A.md)
+
+
+## Week4
+
+
+- [作业2](https://github.com/jlbluluai/java-advanced-task/blob/main/Week4/Week4-%E4%BD%9C%E4%B8%9A-2.md)
+- [作业6](https://github.com/jlbluluai/java-advanced-task/blob/main/Week4/Week4-%E4%BD%9C%E4%B8%9A-6.md)
