@@ -37,3 +37,11 @@
 
 - [作业2](https://github.com/jlbluluai/java-advanced-task/blob/main/Week4/Week4-%E4%BD%9C%E4%B8%9A-2.md)
 - [作业6](https://github.com/jlbluluai/java-advanced-task/blob/main/Week4/Week4-%E4%BD%9C%E4%B8%9A-6.md)
+
+
+## Week5
+
+
+- [作业2](https://github.com/jlbluluai/java-advanced-task/blob/main/Week5/Week5-%E4%BD%9C%E4%B8%9A-2.md)
+- [作业8](https://github.com/jlbluluai/java-advanced-task/blob/main/Week5/Week5-%E4%BD%9C%E4%B8%9A-8.md)
+- [作业10](https://github.com/jlbluluai/java-advanced-task/blob/main/Week5/Week5-%E4%BD%9C%E4%B8%9A-10.md)
