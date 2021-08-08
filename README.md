@@ -7,6 +7,7 @@
   * [Week4](#week4)
   * [Week5](#week5)
   * [Week6](#week6)
+  * [Week7](#week7)
 
 # java-advanced-task
 
@@ -52,3 +53,10 @@
 ## Week6
 
 - [作业6](https://github.com/jlbluluai/java-advanced-task/blob/main/Week6/Week6-%E4%BD%9C%E4%B8%9A-6.md)
+
+
+## Week7
+
+- [作业2](https://github.com/jlbluluai/java-advanced-task/blob/main/Week6/Week7-%E4%BD%9C%E4%B8%9A-2.md)
+- [作业9](https://github.com/jlbluluai/java-advanced-task/blob/main/Week6/Week7-%E4%BD%9C%E4%B8%9A-9.md)
+- [作业10](https://github.com/jlbluluai/java-advanced-task/blob/main/Week6/Week7-%E4%BD%9C%E4%B8%9A-10.md)
