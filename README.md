@@ -78,3 +78,9 @@
 
 - [作业8](https://github.com/jlbluluai/java-advanced-task/blob/main/Week11/Week11-%E4%BD%9C%E4%B8%9A-8.md)
 - [作业9](https://github.com/jlbluluai/java-advanced-task/blob/main/Week11/Week11-%E4%BD%9C%E4%B8%9A-9.md)
+
+
+## Week12
+
+- [作业1](https://github.com/jlbluluai/java-advanced-task/blob/main/Week12/Week12-%E4%BD%9C%E4%B8%9A-1.md)
+- [作业6](https://github.com/jlbluluai/java-advanced-task/blob/main/Week12/Week12-%E4%BD%9C%E4%B8%9A-6.md)
