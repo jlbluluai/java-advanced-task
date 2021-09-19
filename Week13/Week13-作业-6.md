@@ -6,6 +6,14 @@
 
 ## 解题
 
+实现了第二个版本：
+
+去掉内存 Queue，设计自定义 Queue，实现消息确认和消费 offset
+
+- 自定义内存 Message 数组模拟 Queue。
+- 使用指针记录当前消息写入位置。
+- 对于每个命名消费者，用指针记录消费位置。
+
 [项目地址](https://github.com/jlbluluai/xyz-study/tree/master/kmq-core)
 
 **定义了自定义的MyQueue**
